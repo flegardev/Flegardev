@@ -25,17 +25,17 @@ Web-based static code analysis platform for exploring symbol dependency graphs, 
 ### 💼 [DeloHubSI](https://github.com/flegardev/DeloHubSI)
 Slovenian job marketplace platform built with Symfony 7 (PHP 8.2), Vue 3, Elasticsearch 8 full-text job search, PostgreSQL, Redis queues, and Docker Compose.
 
-### 🚗 [DriveWise Telematics](https://github.com/flegardev/drivewise)
+### 🚗 [DriveWise Telematics](https://github.com/flegardev/Drivewise)
 Driving telematics and fleet safety MVP platform. Evaluates trip risk using dynamic physics-based scoring algorithms (analyzing acceleration, braking, and cornering g-forces) with Leaflet risk heatmaps and NestJS API.
 
-### 📈 [Algorithmic Trading Bot Framework (ai-bot)](https://github.com/flegardev/ai-bot)
+### 📈 [Algorithmic Trading Bot Framework (ai-bot)](https://github.com/flegardev/AI-bot)
 Modular algorithmic trading engine in Python 3.11 with backtesting candle validation, multi-broker adapters (Binance CCXT, MetaTrader 5, Paper Trading), LightGBM signal filtering, and position risk sizing.
 
 ### 🎓 [Borza Financial Academy](https://github.com/flegardev/Borza)
 Multilingual financial literacy platform and paper trading simulator built with Next.js App Router, Python FastAPI, PostgreSQL, and Redis.
 *Live Demo*: [https://borza-kappa.vercel.app](https://borza-kappa.vercel.app)
 
-### 🍲 [Nana's Recipes (recepti)](https://github.com/flegardev/recepti)
+### 🍲 [Nana's Recipes (recepti)](https://github.com/flegardev/Recepti)
 Private household cookbook Progressive Web App (PWA) built with Next.js 15 and Supabase, featuring pantry ingredient matching and Supabase Row-Level Security (RLS).
 *Live Demo*: [https://recepti-rho.vercel.app](https://recepti-rho.vercel.app)
 
