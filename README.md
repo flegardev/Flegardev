@@ -1,47 +1,60 @@
 # Tini Flegar
 
-**Full-Stack & Software Developer** based in Slovenia.
+**Software Engineer & Full-Stack Developer** based in Slovenia.
 
-I build production-ready full-stack applications, static code analysis tools, driving telematics scoring engines, quantitative trading frameworks, and distraction-free browser extensions.
+I build web platforms, developer intelligence tools, driving telematics scoring engines, quantitative backtesting systems, and browser extensions.
 
-[Portfolio Site](https://flegartech-site-main.vercel.app) • [GitHub Repositories](https://github.com/flegardev?tab=repositories)
-
----
-
-## Technical Focus & Engineering Areas
-
-* **Full-Stack & Web Applications**: Next.js, React, TypeScript, Vue 3, Symfony (PHP 8.2), Express.js, FastAPI (Python)
-* **Databases & Search Engines**: PostgreSQL, Supabase (RLS), Prisma ORM, Doctrine ORM, Elasticsearch 8, Redis 7
-* **Developer Tools & Telematics**: Static Code Analysis (Tree-Sitter, ast-grep, Cytoscape.js), Telematics Safety Scoring Algorithms, Chrome Extension Manifest V3
-* **Systems, Automation & Quantitative**: Quantitative Trading Frameworks (CCXT, MetaTrader 5, LightGBM), Docker Compose, GitHub Actions CI/CD
+[Portfolio Site](https://flegartech-site-main.vercel.app) | [GitHub Repositories](https://github.com/flegardev?tab=repositories)
 
 ---
 
-## Featured Projects
+## Technical Expertise
 
-### 🛠️ [WTFCode](https://github.com/flegardev/WTFCode)
-Web-based static code analysis platform for exploring symbol dependency graphs, WebAssembly AST traversal (Web Tree-Sitter & ast-grep), route mapping, and security auditing across multi-language codebases.
-
-### 💼 [DeloHubSI](https://github.com/flegardev/DeloHubSI)
-Slovenian job marketplace platform built with Symfony 7 (PHP 8.2), Vue 3, Elasticsearch 8 full-text job search, PostgreSQL, Redis queues, and Docker Compose.
-
-### 🚗 [DriveWise Telematics](https://github.com/flegardev/Drivewise)
-Driving telematics and fleet safety MVP platform. Evaluates trip risk using dynamic physics-based scoring algorithms (analyzing acceleration, braking, and cornering g-forces) with Leaflet risk heatmaps and NestJS API.
-
-### 📈 [Algorithmic Trading Bot Framework (ai-bot)](https://github.com/flegardev/AI-bot)
-Modular algorithmic trading engine in Python 3.11 with backtesting candle validation, multi-broker adapters (Binance CCXT, MetaTrader 5, Paper Trading), LightGBM signal filtering, and position risk sizing.
-
-### 🎓 [Borza Financial Academy](https://github.com/flegardev/Borza)
-Multilingual financial literacy platform and paper trading simulator built with Next.js App Router, Python FastAPI, PostgreSQL, and Redis.
-*Live Demo*: [https://borza-kappa.vercel.app](https://borza-kappa.vercel.app)
-
-### 🍲 [Nana's Recipes (recepti)](https://github.com/flegardev/Recepti)
-Private household cookbook Progressive Web App (PWA) built with Next.js 15 and Supabase, featuring pantry ingredient matching and Supabase Row-Level Security (RLS).
-*Live Demo*: [https://recepti-rho.vercel.app](https://recepti-rho.vercel.app)
+- **Full-Stack & Web Architecture**: Next.js 16 (App Router), React 19, TypeScript, Vue 3 (Composition API), Laravel 13, NestJS 11, Express 5, FastAPI (Python 3.13+).
+- **Databases & Persistence**: PostgreSQL, Supabase (Row-Level Security & Realtime), Prisma ORM, SQLAlchemy 2.0, Redis, SQLite.
+- **Developer Tools & Analysis**: Static Code Analysis (Tree-Sitter, ast-grep, ts-morph, Cytoscape.js), AST security scanners, Chrome Extensions (Manifest V3).
+- **Quantitative, Telematics & Systems**: Driving risk algorithms, Algorithmic trading & backtesting (CCXT, MetaTrader 5, Scikit-Learn), Docker Compose, CI/CD.
 
 ---
 
-## Contact & Links
+## Featured Repositories
 
-* **Portfolio Website**: [flegartech-site-main.vercel.app](https://flegartech-site-main.vercel.app)
-* **GitHub**: [github.com/flegardev](https://github.com/flegardev)
+### [WTFCode](https://github.com/flegardev/WTFCode)
+Multi-engine static code analysis platform for exploring symbol dependency graphs, WebAssembly AST traversal (Web Tree-Sitter & ast-grep), route mapping, and AST security auditing.
+- *Stack*: PHP 8.3, Node.js Workers, Cytoscape.js, Web Tree-Sitter, Supabase PostgreSQL
+
+### [DeloHub SI](https://github.com/flegardev/DeloHubSI)
+Slovenian employment and career marketplace featuring regional taxonomy filtering, candidate management, employer analytics, and admin moderation.
+- *Stack*: Vue 3 (Vite, Pinia), Laravel 13, PostgreSQL 16, Docker Compose
+
+### [DriveWise Telematics](https://github.com/flegardev/drivewise)
+Fleet telematics and driver safety intelligence platform. Evaluates trip risk using kinematic scoring models with interactive Leaflet GPS playback.
+- *Stack*: NestJS 11, React + Vite, React Native (Expo 51), Prisma ORM, PostgreSQL
+
+### [AI Trading Bot Framework (ai-bot)](https://github.com/flegardev/ai-bot)
+Modular algorithmic trading engine in Python featuring historical backtesting, broker adapters (MetaTrader 5, Binance CCXT, Paper), ML signal scoring, and multi-tier risk gates.
+- *Stack*: Python 3.13+, Scikit-Learn, Pandas, NumPy, CCXT, MetaTrader 5
+
+### [Borza Financial Academy](https://github.com/flegardev/Borza)
+Financial literacy platform and market simulator with spaced repetition (FSRS), KaTeX mathematical formulas, and classroom tools.
+- *Stack*: Next.js 16, FastAPI, SQLAlchemy 2.0, PostgreSQL, Lightweight Charts
+
+### [Nana's Recipes (recepti)](https://github.com/flegardev/recepti)
+Private household cookbook Progressive Web App (PWA) with pantry ingredient matching, step-by-step cooking mode, and Supabase Row-Level Security.
+- *Stack*: Next.js 16, React 19, Supabase (PostgreSQL, Auth, RLS), Tailwind CSS
+
+### [Pametni Sistem Cakalnice](https://github.com/flegardev/pametni-sistem-cakalnice)
+Clinic waiting room management system with patient queue tracking, public TV display mode, triage dashboards, and patient QR status lookups.
+- *Stack*: React 18, TypeScript, Vite, Tailwind CSS, Lucide, QRCode React
+
+### [Pulse Fitness Tracker](https://github.com/flegardev/pulse-fitness-tracker)
+Privacy-focused local workout and fitness tracker with set logging, 1RM analytics, body metric tracking, and local JSON backup portability.
+- *Stack*: React 19, TypeScript, Vite, Tailwind CSS v4, Vitest
+
+---
+
+## Contact & Profile
+
+- **Portfolio**: [flegartech-site-main.vercel.app](https://flegartech-site-main.vercel.app)
+- **GitHub**: [github.com/flegardev](https://github.com/flegardev)
+- **Email**: [flegardev@gmail.com](mailto:flegardev@gmail.com)
