@@ -1,13 +1,20 @@
 <!-- 
-🎓 BEGINNER NOTE: Flegardev Developer Profile
-Official GitHub profile presentation for Tini Flegar highlighting full-stack projects, tech stacks, and open-source contributions.
-Tech Stack: Markdown, GitHub Actions, SVG Badges
+=============================================================================
+🎓 BEGINNER PROGRAMMING GUIDE: GITHUB PROFILE REPOSITORY ARCHITECTURE
+=============================================================================
+In GitHub, creating a repository with the exact same name as your username
+(e.g., flegardev/flegardev) turns its README.md into your global GitHub profile landing page.
+- Markdown headers (`#`, `##`, `###`) create visual hierarchy.
+- Links `[Label](URL)` connect projects to live demos and source repositories.
+- Bulleted lists summarize tech stacks and competencies clearly for recruiters & peers.
+=============================================================================
 -->
+
 # Tini Flegar
 
 **Software Engineer & Full-Stack Developer** based in Slovenia.
 
-I build web platforms, developer intelligence tools, driving telematics scoring engines, quantitative backtesting systems, and browser extensions.
+I build high-performance web platforms, developer intelligence tools, driving telematics scoring engines, quantitative backtesting systems, and browser extensions.
 
 [Portfolio Site](https://flegartech-site-main.vercel.app) | [GitHub Repositories](https://github.com/flegardev?tab=repositories)
 
@@ -63,4 +70,3 @@ Privacy-focused local workout and fitness tracker with set logging, 1RM analytic
 - **Portfolio**: [flegartech-site-main.vercel.app](https://flegartech-site-main.vercel.app)
 - **GitHub**: [github.com/flegardev](https://github.com/flegardev)
 - **Email**: [flegardev@gmail.com](mailto:flegardev@gmail.com)
-
