@@ -1,3 +1,8 @@
+<!-- 
+🎓 BEGINNER NOTE: Flegardev Developer Profile
+Official GitHub profile presentation for Tini Flegar highlighting full-stack projects, tech stacks, and open-source contributions.
+Tech Stack: Markdown, GitHub Actions, SVG Badges
+-->
 # Tini Flegar
 
 **Software Engineer & Full-Stack Developer** based in Slovenia.
@@ -58,3 +63,4 @@ Privacy-focused local workout and fitness tracker with set logging, 1RM analytic
 - **Portfolio**: [flegartech-site-main.vercel.app](https://flegartech-site-main.vercel.app)
 - **GitHub**: [github.com/flegardev](https://github.com/flegardev)
 - **Email**: [flegardev@gmail.com](mailto:flegardev@gmail.com)
+
