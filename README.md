@@ -63,6 +63,22 @@ Clinic waiting room management system with patient queue tracking, public TV dis
 Privacy-focused local workout and fitness tracker with set logging, 1RM analytics, body metric tracking, and local JSON backup portability.
 - *Stack*: React 19, TypeScript, Vite, Tailwind CSS v4, Vitest
 
+### [Avtonet Garage Extension](https://github.com/flegardev/avtonet-garage)
+Chrome Extension (Manifest V3) for auto enthusiasts in Slovenia to track price histories, organize saved vehicles, and evaluate price-to-mileage value.
+- *Stack*: Manifest V3, React 18, Webpack 5, LocalStorage, Vitest
+
+### [Auto Life Logger](https://github.com/flegardev/auto-life-logger)
+Local-first browsing time tracker and focus intervention Chrome extension with category analytics and productivity score heatmaps.
+- *Stack*: Manifest V3, Vanilla JS, Chart.js, HTML5/CSS3, Playwright
+
+### [Študentski Denar](https://github.com/flegardev/studentski-denar)
+Student finance and budgeting app for Slovenian university students, calculating net income from student work, pension contributions, and tax allowances.
+- *Stack*: React 19, TypeScript, Tailwind CSS v4, Supabase, Vitest
+
+### [YouTube Focus Mode](https://github.com/flegardev/youtube-focus)
+Distraction-free YouTube viewing Chrome extension with timed focus lock sessions, hiding recommendations, sidebars, and comments.
+- *Stack*: Manifest V3, Vanilla JS, Chrome Storage API, CSS3
+
 ---
 
 ## Contact & Profile
