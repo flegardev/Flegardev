@@ -6,7 +6,7 @@ Software developer based in Slovenia. I build interfaces, APIs, and practical to
 
 ## Selected work
 
-- [Nana's Recipes](https://github.com/flegardev/Recepti): a private household cookbook with pantry matching, shopping lists, and an isolated [public sample](https://recepti-rho.vercel.app/preview). Built with Next.js, React, TypeScript, and Supabase. Private persistence and live sign-in need backend recovery.
+- [Nana's Recipes](https://github.com/flegardev/Recepti): a private household cookbook with pantry matching, shopping lists, and an isolated [public sample](https://recepti-rho.vercel.app/preview). Built with Next.js, React, TypeScript, and Supabase. Production Google owner sign-in, persisted recipe browsing and owner diagnostics were verified on 13 October 2026; record mutations and cross-owner isolation still need live verification. The maintenance PR remains draft pending an unpatched development dependency advisory.
 - [Borza Academy](https://github.com/flegardev/Borza): financial education and a deterministic market simulator with a Next.js frontend and FastAPI backend. The [public homepage](https://borza-pi.vercel.app) is available; the API is awaiting hosting recovery.
 - [WTFCode](https://github.com/flegardev/WTFCode): evidence-backed repository analysis, static dependency maps, and durable scan queues. Built with PHP, Node.js analysis tooling, and PostgreSQL. Full hosted operation requires database and worker recovery.
 - [Drivewise](https://github.com/flegardev/Drivewise): typed telemetry calculations, validated geographic distances, and reusable React trip components.
