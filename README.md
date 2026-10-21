@@ -14,6 +14,14 @@ Software developer based in Slovenia. I build interfaces, APIs, and practical to
 
 The portfolio includes [five case studies](https://flegardev-portfolio.vercel.app/#work), real product screenshots, architecture explanations, and explicit verification status.
 
+## Chrome extensions
+
+- **[AvtoNetGaraža](https://github.com/flegardev/Avtonet-garage)** — a local garage for saved avto.net listings, price history and listing-change notifications. [Chrome Web Store](https://chromewebstore.google.com/detail/fgpcanlkfjelbccblfpgmobgfmahpiia). The actual 1.0.4 package was retrieved during source recovery; the tested source upgrade adds comparison and ownership records.
+- **[YouTube Focus Mode](https://github.com/flegardev/YouTube-focus)** — an intentional YouTube experience with a timed soft lock and saved themes. [Chrome Web Store](https://chromewebstore.google.com/detail/feineenlljealpgoohilfdfmocmceohk). The actual 3.0.3 package was retrieved; the tested source upgrade adds independent distraction controls and presets.
+- **[Auto Life Logger](https://github.com/flegardev/Auto-life-logger)** — local browsing analytics, focus insights, achievements and optional distraction interventions. Its source upgrade improves queued writes, worker checkpoints and backup recovery. The existing Store listing ID still needs independent confirmation before linking or submitting an upgrade.
+
+Source upgrades and Store publication are separate. New packages have not been uploaded or submitted; repository release notes record verification and publication gates.
+
 ## Technologies demonstrated in these repositories
 
 TypeScript, React, Next.js, Python/FastAPI, PHP, PostgreSQL, Supabase, SQLAlchemy, Docker, GitHub Actions, Vercel, and automated browser testing.
